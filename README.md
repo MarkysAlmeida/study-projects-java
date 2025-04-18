@@ -17,3 +17,32 @@ Cada pasta representa um tópico do curso e contém:
 - Projetos práticos relacionados
 - Arquivo `README.md` com resumo do conteúdo
 
+
+---
+
+## ✅ Conteúdo em Progresso
+
+- [x] Estrutura condicional
+- [ ] Estruturas de repetição
+- [ ] Strings, funções, operadores bitwise
+- [ ] Programação orientada a objetos
+- [ ] Arrays e listas
+- [ ] Herança, polimorfismo, exceções
+- [ ] Interfaces, arquivos
+- [ ] Collections, generics
+- [ ] Programação funcional
+- [ ] JDBC e banco de dados
+- [ ] Spring Boot (MySQL e MongoDB)
+- [ ] JavaFX
+
+---
+
+## 🛠️ Ferramentas utilizadas
+
+- Java 17
+- IntelliJ IDEA / VS Code
+- Git e GitHub
+- Spring Boot (futuramente)
+- MySQL e MongoDB (futuramente)
+
+---
